@@ -4,6 +4,7 @@
 ## 使用
 
 > 支持Behinder3，仅使用Behinder_v3.0.11_t00ls进行测试。
+> 仅支持 JSP/JSPX 木马
 
 ``` text
 $ python3 behinder3_brute.py -h

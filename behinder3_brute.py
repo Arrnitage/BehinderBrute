@@ -6,6 +6,9 @@ import base64
 import requests
 from Cryptodome.Cipher import AES
 from Cryptodome.Util.Padding import pad
+import urllib3
+
+urllib3.disable_warnings()
 
 BLOCK_SIZE = 16
 
