@@ -90,5 +90,4 @@ if __name__ == '__main__':
 
     for path in paths:
         for password in passwords:
-            print(path, password)
             doConnect(path.strip(), password.strip())
