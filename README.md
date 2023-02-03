@@ -29,4 +29,4 @@ $ python3 behinder3_brute.py urls.txt passwords.txt
 
 ## Reference
 
-- [Bhinder3 Protocol](https://arrnitage.github.io/Behinder3-Protocol/)
+- [Behinder3 Protocol](https://arrnitage.github.io/Behinder3-Protocol/)
